@@ -1,0 +1,230 @@
+{
+  "Technical English for Computer Science": {
+    "Difficulty": 2,
+    "Usefulness": 4,
+    "Workload": 3,
+    "Good grade": 5
+  },
+  "Computer programming": {
+    "Difficulty": 3,
+    "Usefulness": 5,
+    "Workload": 3,
+    "Good grade": 4
+  },
+  "Programming technologies": {
+    "Difficulty": 4,
+    "Usefulness": 4,
+    "Workload": 2,
+    "Good grade": 3
+  },
+  "Introduction to data structures and algorithms": {
+    "Difficulty": 4,
+    "Usefulness": 5,
+    "Workload": 4,
+    "Good grade": 4
+  },
+  "Computer organization": {
+    "Difficulty": 4,
+    "Usefulness": 4,
+    "Workload": 3,
+    "Good grade": 3
+  },
+  "Discrete mathematics": {
+    "Difficulty": 3,
+    "Usefulness": 4,
+    "Workload": 4,
+    "Good grade": 4
+  },
+  "Object-oriented programming and Java": {
+    "Difficulty": 3,
+    "Usefulness": 4,
+    "Workload": 3,
+    "Good grade": 4
+  },
+  "Principles of operating systems": {
+    "Difficulty": 4,
+    "Usefulness": 4,
+    "Workload": 4,
+    "Good grade": 3
+  },
+  "Computer architecture": {
+    "Difficulty": 4,
+    "Usefulness": 4,
+    "Workload": 4,
+    "Good grade": 3
+  },
+  "Computer and communication networks": {
+    "Difficulty": 4,
+    "Usefulness": 4,
+    "Workload": 3,
+    "Good grade": 3
+  },
+  "Compiling techniques": {
+    "Difficulty": 3,
+    "Usefulness": 3,
+    "Workload": 4,
+    "Good grade": 4
+  },
+  "Design and analysis of algorithms": {
+    "Difficulty": 4,
+    "Usefulness": 5,
+    "Workload": 4,
+    "Good grade": 4
+  },
+  "Functional programming": {
+    "Difficulty": 3,
+    "Usefulness": 4,
+    "Workload": 3,
+    "Good grade": 5
+  },
+  "Principles of programming languages": {
+    "Difficulty": 4,
+    "Usefulness": 4,
+    "Workload": 3,
+    "Good grade": 4
+  },
+  "Artificial intelligence": {
+    "Difficulty": 4,
+    "Usefulness": 5,
+    "Workload": 4,
+    "Good grade": 4
+  },
+  "Computer graphics": {
+    "Difficulty": 4,
+    "Usefulness": 4,
+    "Workload": 4,
+    "Good grade": 3
+  },
+  "Introduction to database management systems": {
+    "Difficulty": 3,
+    "Usefulness": 4,
+    "Workload": 3,
+    "Good grade": 4
+  },
+  "Software engineering": {
+    "Difficulty": 3,
+    "Usefulness": 5,
+    "Workload": 4,
+    "Good grade": 4
+  },
+  "Legal aspects of computing": {
+    "Difficulty": 2,
+    "Usefulness": 3,
+    "Workload": 3,
+    "Good grade": 5
+  },
+  "Machine learning": {
+    "Difficulty": 4,
+    "Usefulness": 5,
+    "Workload": 4,
+    "Good grade": 4
+  },
+  "Quantum information and computation": {
+    "Difficulty": 5,
+    "Usefulness": 4,
+    "Workload": 5,
+    "Good grade": 2
+  },
+  "Computer vision": {
+    "Difficulty": 4,
+    "Usefulness": 4,
+    "Workload": 4,
+    "Good grade": 3
+  },
+  "Electronic commerce technology": {
+    "Difficulty": 3,
+    "Usefulness": 4,
+    "Workload": 3,
+    "Good grade": 4
+  },
+  "Modern technologies on World Wide Web": {
+    "Difficulty": 3,
+    "Usefulness": 4,
+    "Workload": 3,
+    "Good grade": 4
+  },
+  "Advanced database systems": {
+    "Difficulty": 4,
+    "Usefulness": 5,
+    "Workload": 4,
+    "Good grade": 4
+  },
+  "Computer game design and programming": {
+    "Difficulty": 3,
+    "Usefulness": 4,
+    "Workload": 4,
+    "Good grade": 5
+  },
+  "Interactive mobile application design and programming": {
+    "Difficulty": 4,
+    "Usefulness": 4,
+    "Workload": 3,
+    "Good grade": 4
+  },
+  "Applied deep learning": {
+    "Difficulty": 4,
+    "Usefulness": 5,
+    "Workload": 4,
+    "Good grade": 4
+  },
+  "Advanced algorithm analysis": {
+    "Difficulty": 4,
+    "Usefulness": 5,
+    "Workload": 4,
+    "Good grade": 4
+  },
+  "Algorithmic game theory": {
+    "Difficulty": 4,
+    "Usefulness": 5,
+    "Workload": 4,
+    "Good grade": 3
+  },
+  "Bioinformatics": {
+    "Difficulty": 3,
+    "Usefulness": 4,
+    "Workload": 3,
+    "Good grade": 5
+  },
+  "Statistical learning": {
+    "Difficulty": 4,
+    "Usefulness": 5,
+    "Workload": 4,
+    "Good grade": 4
+  },
+  "Cyber security": {
+    "Difficulty": 4,
+    "Usefulness": 5,
+    "Workload": 4,
+    "Good grade": 4
+  },
+  "Robotics": {
+    "Difficulty": 4,
+    "Usefulness": 5,
+    "Workload": 4,
+    "Good grade": 4
+  },
+  "Cryptography": {
+    "Difficulty": 3,
+    "Usefulness": 4,
+    "Workload": 3,
+    "Good grade": 5
+  },
+  "Distributed and parallel computing": {
+    "Difficulty": 4,
+    "Usefulness": 5,
+    "Workload": 4,
+    "Good grade": 4
+  },
+  "Artificial intelligence applications": {
+    "Difficulty": 4,
+    "Usefulness": 5,
+    "Workload": 4,
+    "Good grade": 4
+  },
+  "Implementation testing and maintenance of software systems": {
+    "Difficulty": 3,
+    "Usefulness": 5,
+    "Workload": 4,
+    "Good grade": 4
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "first_year": {
+    "engineering_core_courses": [
+      "MATH1851 Calculus and ordinary differential equations",
+      "MATH1853 Linear algebra, probability and statistics",
+      "ENGG1300 Fundamental mechanics",
+      "ENGG1310 Electricity and electronics",
+      "ENGG1320 Engineers in the modern world",
+      "ENGG1330 Computer programming I",
+      "ENGG1340 Computer programming II"
+    ]
+  },
+  "second_year": {
+    "introductory_discipline_core_courses": [
+      "COMP2119 Introduction to data structures and algorithms",
+      "COMP2120 Computer organization",
+      "COMP2121 Discrete mathematics",
+      "COMP2396 Object-oriented programming and Java"
+    ],
+    "discipline_elective_courses": ["Artificial intelligence"]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "first_year": {
+    "engineering_core_courses": [
+      "MATH1851 Calculus and ordinary differential equations",
+      "MATH1853 Linear algebra, probability and statistics",
+      "ENGG1300 Fundamental mechanics",
+      "ENGG1310 Electricity and electronics",
+      "ENGG1320 Engineers in the modern world",
+      "ENGG1330 Computer programming I",
+      "ENGG1340 Computer programming II"
+    ]
+  },
+  "second_year": {
+    "introductory_discipline_core_courses": [
+      "COMP2119 Introduction to data structures and algorithms",
+      "COMP2120 Computer organization",
+      "COMP2121 Discrete mathematics",
+      "COMP2396 Object-oriented programming and Java"
+    ],
+    "discipline_elective_courses": []
+  },
+  "third_year": {
+    "advanced_discipline_core_courses": [
+      "COMP3230 Principles of operating systems",
+      "COMP3234 Computer and communication networks",
+      "COMP3250 Design and analysis of algorithms",
+      "COMP3278 Introduction to database management systems",
+      "COMP3297 Software engineering"
+    ],
+    "discipline_elective_courses": []
+  },
+  "fourth_year": {
+    "discipline_elective_courses": [],
+    "capstone_experience": "COMP4801 Final year project",
+    "university_requirements": [
+      "CAES9542 Technical English for Computer Science"
+    ]
+  }
+}
